@@ -2,7 +2,7 @@
 
 ![images](https://user-images.githubusercontent.com/94692820/197202130-6ce4bcf2-01ff-4e2e-88a8-182604590ce1.png)
 
-## You can try directly from your web browser here <a href="https://replit.com/@x-normalize/passwordgenerator">Try<a/> Just click RUN example to start.  
+## You can try directly from your web browser here <a href="https://replit.com/@x-normalize/passwordgenerator">Try<a/> Just click RUN  to start.  
 
 ### This is a simple Python strong password generator. The password length can be changed the default is 30 length. You can add "string.punctuation" in characters for a stronger password. If you want a new password just click run again and will generate a new password !!!
 
